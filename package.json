@@ -1,0 +1,39 @@
+{
+  "name": "huyang",
+  "version": "1.0.0",
+  "description": "Huyang was is ancient module, stooped with age yet still spry of mind. Huyang was a storied architect and professor, who oversaw the appearance of modern software development.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "snazzy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fampinheiro/huyang.git"
+  },
+  "author": "Filipe Pinheiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fampinheiro/huyang/issues"
+  },
+  "homepage": "https://github.com/fampinheiro/huyang#readme",
+  "dependencies": {
+    "hoek": "3.0.4",
+    "lodash.defaults": "4.0.1",
+    "webpack": "1.12.13",
+    "webpack-dev-middleware": "1.5.1",
+    "webpack-hot-middleware": "2.7.1"
+  },
+  "devDependencies": {
+    "code": "2.1.0",
+    "hapi": "13.0.0",
+    "lab": "9.0.0",
+    "snazzy": "3.0.0",
+    "standard": "6.0.7"
+  },
+  "pre-commit": [
+    "test"
+  ],
+  "directories": {
+    "test": "test"
+  }
+}
