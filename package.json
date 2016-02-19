@@ -1,6 +1,6 @@
 {
   "name": "huyang",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Huyang was is ancient module, stooped with age yet still spry of mind. Huyang was a storied architect and professor, who oversaw the appearance of modern software development.",
   "main": "lib/index.js",
   "scripts": {
