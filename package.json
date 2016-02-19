@@ -19,6 +19,7 @@
   "dependencies": {
     "hoek": "3.0.4",
     "lodash.defaults": "4.0.1",
+    "lodash.omit": "4.1.0",
     "webpack": "1.12.13",
     "webpack-dev-middleware": "1.5.1",
     "webpack-hot-middleware": "2.7.1"
