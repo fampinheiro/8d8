@@ -17,19 +17,19 @@
   },
   "homepage": "https://github.com/fampinheiro/huyang#readme",
   "dependencies": {
-    "hoek": "3.0.4",
+    "hoek": "4.0.1",
     "lodash.defaults": "4.0.1",
-    "lodash.omit": "4.1.0",
-    "webpack": "1.12.13",
-    "webpack-dev-middleware": "1.5.1",
-    "webpack-hot-middleware": "2.7.1"
+    "lodash.omit": "4.3.0",
+    "webpack": "1.13.1",
+    "webpack-dev-middleware": "1.6.1",
+    "webpack-hot-middleware": "2.12.1"
   },
   "devDependencies": {
-    "code": "2.1.0",
-    "hapi": "13.0.0",
-    "lab": "9.0.0",
-    "snazzy": "3.0.0",
-    "standard": "6.0.7"
+    "code": "3.0.1",
+    "hapi": "13.5.0",
+    "lab": "10.9.0",
+    "snazzy": "4.0.0",
+    "standard": "7.1.2"
   },
   "pre-commit": [
     "test"
