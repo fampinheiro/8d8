@@ -25,11 +25,11 @@
     "webpack-hot-middleware": "^2.12.2"
   },
   "devDependencies": {
-    "code": "^3.0.2",
-    "hapi": "^15.0.3",
-    "lab": "^11.0.1",
-    "snazzy": "^4.0.1",
-    "standard": "^8.0.0"
+    "code": "^4.0.0",
+    "hapi": "^16.1.0",
+    "lab": "^13.0.1",
+    "snazzy": "^6.0.0",
+    "standard": "^9.0.1"
   },
   "pre-commit": [
     "test"
